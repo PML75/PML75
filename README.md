@@ -1,5 +1,5 @@
-# Hi there, I'm Phu! 👋 
-[![GitHub commits](https://img.shields.io/github/commits-since/Naereen/StrapDown.js/v1.0.0.svg)](https://GitHub.com/PML75/StrapDown.js/commit/)
+# Hi there, I'm Phu! 👋
+
 <p align="center">
   <img src="https://media.giphy.com/media/KivptwEBOW8hnADEFF/giphy.gif">
 </p>
